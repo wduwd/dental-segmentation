@@ -4,7 +4,7 @@ from flask_jwt_extended import JWTManager, create_access_token, get_jwt_identity
 from flask_cors import CORS
 import os
 from datetime import datetime
-
+#修改过的代码
 app = Flask(__name__)
 
 # 配置
